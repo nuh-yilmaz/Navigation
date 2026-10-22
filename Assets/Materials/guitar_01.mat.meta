@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 92b5738052543f346aaf853bf70501fe
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 181088
+  packageName: Classic Acoustic Guitar
+  packageVersion: 2.0
+  assetPath: Assets/Classic Acoustic Guitar/Materials/guitar_01.mat
+  uploadId: 399724

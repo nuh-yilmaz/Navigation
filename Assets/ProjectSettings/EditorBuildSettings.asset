@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Target_Basketball.unity
+    guid: 237d7c180a39e6444ad85ee54868682d
+  - enabled: 1
+    path: Assets/Scenes/Target_Clock.unity
+    guid: 1d9293c0f84bd8743a761d3b56bef181
+  - enabled: 1
+    path: Assets/Scenes/Target_Flower.unity
+    guid: fa14ab12b9d261849aed00c12c79c8b8
+  - enabled: 1
+    path: Assets/Scenes/Target_Football.unity
+    guid: 0d425150be67f564dbaab525fb330c47
+  - enabled: 1
+    path: Assets/Scenes/Target_FryPan.unity
+    guid: ca314b6db7e718e42b97187d57c66c6f
+  - enabled: 1
+    path: Assets/Scenes/Target_Guitar.unity
+    guid: bd0bd8d9806c47e4e97c20b3fa32c811
+  - enabled: 1
+    path: Assets/Scenes/Target_Hairdryer.unity
+    guid: 04ea4a9a1c62ece479d31719899e548a
+  - enabled: 1
+    path: Assets/Scenes/Target_Hammer.unity
+    guid: 13e4aa70c9b921744b1451a329b9de1c
+  - enabled: 1
+    path: Assets/Scenes/Target_Headset.unity
+    guid: c705304e60884b8479270aaf9cbb8ec0
+  - enabled: 1
+    path: Assets/Scenes/Target_Kettle.unity
+    guid: bf1250cf664a8c540807a3fd1c61ed62
+  - enabled: 1
+    path: Assets/Scenes/Target_Radio.unity
+    guid: db494caa58e3e5a40b17d03434dcaaec
+  - enabled: 1
+    path: Assets/Scenes/Target_Scissors.unity
+    guid: 2e2c8b3091b9b694fb0db900bcb15299
+  - enabled: 1
+    path: Assets/Scenes/Target_Screwdriver.unity
+    guid: ea356b94143d41f479e0c3c6ed24d7e5
+  - enabled: 1
+    path: Assets/Scenes/Target_Sculpture.unity
+    guid: 7c59d84845e9a6141a665e3f9b420a20
+  - enabled: 1
+    path: Assets/Scenes/Target_Shoes.unity
+    guid: 65a327b8cd4fc4c46a2595e80750877e
+  - enabled: 1
+    path: Assets/Scenes/Target_SideLamp.unity
+    guid: 9cdb42d686a62994da9ba5c2d2365445
+  - enabled: 1
+    path: Assets/Scenes/Target_TV.unity
+    guid: 8e2d01d88600c3541a07876ecb98b7df
+  - enabled: 1
+    path: Assets/Scenes/Target_WineBottle.unity
+    guid: d699a7551bc60fb4391926688e9802bd
+  - enabled: 1
+    path: Assets/Scenes/Target_WineGlass.unity
+    guid: 9b8faf0f7d59a014db8976340de7990a
+  - enabled: 1
+    path: Assets/Scenes/Target_WireCutter.unity
+    guid: 93accd79a0d1fc94989818e7cedb8c9b
+  m_configObjects:
+    com.unity.dt.app-ui: {fileID: 11400000, guid: 1b1c20d82303e4b5781c3ef50ac1449f, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 185d1a4744dd6a44b9eea2e6da377cb6, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 3f0ca949271f9094083dabfe2fdb6888, type: 2}

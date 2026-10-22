@@ -1,0 +1,14 @@
+﻿participant_id,wall_clock_utc,time_since_first_trigger,tr_count,block_type,trial_number,trial_time,event,target_name,target_index,response_latency,gaze_duration_actual,player_x,player_y,player_z,player_yaw,camera_pitch,screenshot_file,notes
+# seed=784493
+# total_trials=20 practice_trials=0 trial_groups=20
+# screen=1860x873 camera_fov=69,62993
+# eyetracker=MRC 60-M recorded separately; align to pose log via scanner TR index
+# operator_confirmed_et_calibrated_and_recording=true
+# trial_plan=8-13-5-15-7-6-16-1-18-2-11-10-19-3-4-9-0-17-12-14
+ddd,2026-10-22T08:59:34.145607Z,NaN,0,main,0,NaN,session_start,,-1,NaN,NaN,-1.000000,0.200000,5.000000,180.000000,0.000000,,
+# first_trigger_wall_clock=2026-10-22T11:59:35.0669513+03:00
+ddd,2026-10-22T08:59:35.069098Z,0.002278,1,main,0,NaN,first_trigger,,-1,NaN,NaN,-1.000000,0.200000,5.000000,180.000000,0.000000,,
+ddd,2026-10-22T08:59:35.077620Z,0.010816,1,main,1,NaN,iti_start,,-1,NaN,NaN,-1.000000,0.500000,5.000000,180.000000,0.000000,,
+ddd,2026-10-22T08:59:37.075226Z,2.008402,1,main,1,NaN,trial_onset,,-1,NaN,NaN,-1.000000,0.500000,5.000000,180.000000,0.000000,,group=Headset targets=4
+ddd,2026-10-22T08:59:44.316587Z,9.249749,1,main,1,7.241952,response_press,Headset_DiningTable,0,NaN,NaN,-3.594057,0.620130,1.768525,266.500000,38.500008,Headset_DiningTable_2026-10-22_11-59-44-315.png,
+ddd,2026-10-22T08:59:47.317972Z,12.251137,1,main,1,10.243330,target_recognized,Headset_DiningTable,0,7.241154,3.001293,-3.594057,0.620130,1.768525,267.000000,38.500008,Headset_DiningTable_2026-10-22_11-59-44-315.png,group=Headset found=1/4
